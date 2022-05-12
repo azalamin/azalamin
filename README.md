@@ -1,4 +1,4 @@
-![I am a Junior Front-end developer. ](https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/banner.gif)
+![I am a Junior Front-end developer. ](https://github.com/azalamin/azalamin/blob/main/Blue%20Green%20Loading%20Icon%20Web%20Designer%20Business%20Card.png?raw=true)
 
 
 ## :mailbox: Reach me out
