@@ -1,5 +1,8 @@
-![I am a Junior Front-end developer. ](https://github.com/azalamin/azalamin/blob/main/Blue%20Green%20Loading%20Icon%20Web%20Designer%20Business%20Card.png?raw=true)
+### Hi there 👋, Al amin Sheikh
+#### Front-end React Developer
+![Front-end React Developer](https://raw.githubusercontent.com/azalamin/azalamin/main/Blue%20Green%20Loading%20Icon%20Web%20Designer%20Business%20Card.png)
 
+I'm Alamin from Bangladesh, and I do frontend Development. I really enjoy learning new languages and frameworks like React and React Native. I also enjoy learning python and data science in general. 
 
 ## :mailbox: Reach me out
 
