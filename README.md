@@ -14,7 +14,7 @@ I'm Alamin from Bangladesh, and I do frontend Development. I really enjoy learni
 ## :eyes: Current overview
 
 - ### 🔭 I’m currently working on a web browser [website](https://digital-electronics-1f619.web.app/). 
-- ### 🌱 I’m currently React Native. 
+- ### 🌱 I’m currently learning React Native. 
 - ### 👯 I’m looking to collaborate on open source projects. 
 - ### 🤔 I’m looking for help with fixing my coding addiction. 
 - ### ⚡ Fun fact: I love to fix complex bugs and I can learn quicker
