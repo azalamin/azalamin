@@ -1,6 +1,6 @@
 ### Hi there 👋, Al amin Sheikh
 #### Front-end React Developer
-![Front-end React Developer](https://i.ibb.co/stSy3BD/alamin-linkedin-banner.png)
+![Front-end React Developer](https://i.ibb.co/qJkR307/linkedin-banner-alamin.png)
 
 I'm Alamin from Bangladesh, and I do frontend Development. I really enjoy learning new languages and frameworks like React and React Native. I also enjoy learning python and data science in general. 
 
